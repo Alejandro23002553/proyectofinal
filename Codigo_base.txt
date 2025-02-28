@@ -1,1 +1,7 @@
 Completar el codigo base...
+
+Cálculo del recargo por edad del asegurado.
+
+Cálculo del recargo por el cónyuge (si aplica).
+
+Cálculo del recargo por cantidad de hijos.

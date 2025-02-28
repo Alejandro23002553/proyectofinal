@@ -1,1 +1,14 @@
 Analisis del problema...
+Para solucionar este problema, se necesita un cotizador automático que tome en cuenta ciertos factores para calcular la cotización final de manera rápida y eficiente.
+Edad del asegurado: Se aplican recargos según los siguientes rangos
+
+18 a 24 años: +10%
+
+25 a 49 años: +20%
+
+50 años o más: +30%
+
+Estado civil y edad del cónyuge: Si está casado, se aplica el mismo esquema de recargos basado en la edad del cónyuge.
+
+Cantidad de hijos: Se aplica un recargo del 20% por cada hijo.
+

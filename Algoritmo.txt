@@ -1,1 +1,13 @@
 Algoritmo...
+Solicitar la edad del asegurado.
+
+Verificar que el asegurado es mayor de edad (18+).
+Determinar el recargo por edad del asegurado según los rangos establecidos.
+
+Preguntar si el asegurado está casado
+
+Preguntar la cantidad de hijos y calcular el recargo según el número de hijos.
+
+Calcular el costo total del seguro sumando los recargos al precio base.
+
+Mostrar el resultado final al usuario.
